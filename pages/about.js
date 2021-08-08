@@ -30,9 +30,13 @@ export default function about() {
             向Steve McConnell先生的著作-"Code Complete"致敬，<br/>
             不過本站的內容沒那麼厲害，就只是一些筆記跟隨筆，<br/>
             頂多加上一些<b>克里斯</b>的嘰嘰喳喳。<br/>
-            <br/>
-            聯絡我：<a href="mailto:SuoChenHua@gmail.com" style={{color:'#666666'}}>SuoChenHua@gmail.com</a>
             
+            
+          </div>
+        </div>
+        <div className="row my-2">
+          <div className="col-12 text-center">
+            聯絡我：<a href="mailto:SuoChenHua@gmail.com" style={{color:'#666666'}}>SuoChenHua@gmail.com</a>
           </div>
         </div>
         {/* <Image  src={chrisImgPath} width={200} height={200} alt=""/> */}
