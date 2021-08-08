@@ -1,1 +1,0 @@
-{"pageProps":{"data":{"title":"second Post","date":"June 23 2021","tags":["tag1","tag2"]},"content":"## Heading Two\n* Item 1\n* Item 2\nthis is awsome!  \n\n**bbb**\n\nhow about table?\n\n| test | ccc |\n| ---- | --- |\n| haha | 1 |\n\n\n\n```c\npinrtf(\"%d\", 1);\n```"},"__N_SSG":true}
