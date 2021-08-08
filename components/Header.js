@@ -12,9 +12,9 @@ export default function Header() {
           <Link href="/" passHref>
             <a className="mx-2">Posts</a>
           </Link>
-          {/* <Link href="/about" passHref>
+          <Link href="/about" passHref>
             <a className="mx-2">About</a>
-          </Link> */}
+          </Link>
         </div>
       </div>
     </header>
